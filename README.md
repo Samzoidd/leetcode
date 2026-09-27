@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Samzoidd/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Samzoidd/leetcode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Samzoidd/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Samzoidd/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Samzoidd/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samzoidd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Samzoidd/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
