@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samzoidd/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Samzoidd/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Samzoidd/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samzoidd/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Samzoidd/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Samzoidd/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Samzoidd/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Samzoidd/leetcode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Samzoidd/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Samzoidd/leetcode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Samzoidd/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
