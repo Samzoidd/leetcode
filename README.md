@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Samzoidd/leetcode/tree/master/0015-3sum) |
 | [0876-middle-of-the-linked-list](https://github.com/Samzoidd/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samzoidd/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Samzoidd/leetcode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samzoidd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Samzoidd/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samzoidd/leetcode/tree/master/0268-missing-number) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Samzoidd/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Samzoidd/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samzoidd/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Samzoidd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
